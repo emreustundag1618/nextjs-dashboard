@@ -1,6 +1,5 @@
 import SideNav from "../ui/dashboard/sidenav";
 
-
 // /* Here is something like router outlet */
 export default function Layout({ children }: { children: React.ReactNode }) {
     return (
